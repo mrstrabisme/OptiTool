@@ -1,4 +1,10 @@
-# OptiTool Images en bas
+⚠️ Avertissement 
+
+Ce projet est fourni à des fins éducatives.
+L'utilisation de ces outils pour attaquer des cibles sans autorisation écrite préalable est illégale et constitue une violation des lois sur la cybersécurité (notamment les articles 323-1 à 323-7 du Code pénal en France). 
+
+L'auteur (`MrStrabisme`) n'assume aucune responsabilité quant à l'utilisation malveillante ou illégale de ce logiciel. Utilisez-le uniquement sur vos propres systèmes et non illégalement.
+
 
 🛠️ OptiTool — L'outil qui fait tout, vraiment tout.
 OptiTool, c'est simple : un seul programme, plein de possibilités. Tu ouvres, tu choisis, tu génères. C'est tout.
